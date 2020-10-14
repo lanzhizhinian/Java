@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yunsuowu
+ *
+ */
+module ObjectArray {
+}

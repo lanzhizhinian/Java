@@ -1,0 +1,2 @@
+login=login.txt;cn.com.action.LoginAction;cn.com.beans.Customer;
+regist=regist.txt;cn.com.action.RegistAction;cn.com.beans.Customer;
